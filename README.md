@@ -1,8 +1,8 @@
 # stepper-clock
 
-![](24hr stepper clock.png)
+![](<24hr stepper clock.png>)
 
-I recall seeing my first 24 hour clock at the [chemisty store](http://www.chem.umd.edu/resources/operationsandsafety/chemstores) at the University of Maryland around 2002/2003. When doing some research for a clock of my own I was inspired by this take: https://timhutton.github.io/2014/01/28/36976.html. Raspberry Pi, steppers and the like for the fun of it.
+I recall seeing my first 24 hour clock at the [chemisty store](http://www.chem.umd.edu/resources/operationsandsafety/chemstores) at the University of Maryland around 2002/2003. When doing some research for a clock of my own I was inspired by this take: https://timhutton.github.io/2014/01/28/36976.html. Raspberry Pi, steppers and the like to over-complicate things for the fun of it.
 
 ## bill of materials
 - Raspberry Pi Model 3 B+
